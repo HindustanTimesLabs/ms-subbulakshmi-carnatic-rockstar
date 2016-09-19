@@ -110,6 +110,9 @@ a:hover {
   margin-bottom: 20px;
   font-weight: 300;
 }
+.copy p.correction {
+  font-style: italic;
+}
 .copy .first-letter {
   float: left;
   font-size: 4em;
@@ -137,7 +140,7 @@ a:hover {
   line-height: 1.3em;
 }
 .copy hr {
-  width: 67%;
+  width: 99%;
   border-top-color: #bbb;
 }
 
